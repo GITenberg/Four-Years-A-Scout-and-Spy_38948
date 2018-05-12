@@ -1,0 +1,29 @@
+_repo: Four-Years-A-Scout-and-Spy_38948
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Downs, E. C. (Edward C.)
+    alias: Downs, Edward C.
+    gutenberg_agent_id: '39731'
+    url: http://www.gutenberg.org/2009/agents/39731
+description: ''
+gutenberg_issued: '2012-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Ruggles, Lorain, 1823-'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: "Four Years a Scout and Spy\r\n\"General Bunker\", One of Lieut. General Grant's\
+  \ Most Daring and Successful Scouts, Being a Narrative of ... the Experience of\
+  \ Corporal Ruggles During Four Years' Service as a Scout and Spy for the Federal\
+  \ Army"
+url: http://www.gutenberg.org/ebooks/38948
